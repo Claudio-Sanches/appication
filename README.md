@@ -1,5 +1,3 @@
 # appication
 
-## Teste de aplicação
-
-## Teste de atualização
+## Teste de aplicao
